@@ -78,10 +78,12 @@ a {
     justify-content: center;
     align-items: center;
     gap: 6px;
+    cursor: pointer;
 }
 .about > svg {
     fill: white;
     height: 20px;
+    
 }
 
 .dropdown {
