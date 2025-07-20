@@ -91,12 +91,12 @@ a {
     justify-content: space-evenly;
     align-items: end;
 
-    height: 350px;
-    width: 200px;
+    height: 300px;
+    width: 225px;
 
     position: absolute;
     top: 80px;
-    left: 800px;
+    left: 760px;
 
     padding: 16px;
 
@@ -110,9 +110,7 @@ a {
     align-items: center;
     padding: 16px;
     height: 60px;
-
 }
-
 
 .merch {
     display: flex;
