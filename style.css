@@ -69,6 +69,8 @@ a {
     margin-right: 30px;
     font-size: 1.25rem;
     font-weight: 200;
+
+    position: relative;
 }
 
 .about {
@@ -92,11 +94,12 @@ a {
     align-items: end;
 
     height: 300px;
-    width: 225px;
+    width: 200px;
 
     position: absolute;
-    top: 80px;
-    left: 760px;
+    top: 40px;
+    left: -5px;
+
 
     padding: 16px;
 
