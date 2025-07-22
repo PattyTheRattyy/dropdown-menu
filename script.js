@@ -1,7 +1,7 @@
 console.log("hello :)");
 
+const dropdown = document.querySelector(".dropdown");
 function toggleDisplay() {
-  const dropdown = document.querySelector(".dropdown");
   if (dropdown.style.display == "none") {
     dropdown.style.display = "flex";
   } else {
